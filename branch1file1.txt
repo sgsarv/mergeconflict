@@ -1,1 +1,3 @@
-added line here in --This is a brnach one test1 file modifiled in branch2 line
+This is a brnach one test1 file
+this a line added in branch 3
+
